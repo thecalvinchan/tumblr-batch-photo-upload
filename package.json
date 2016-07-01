@@ -7,6 +7,7 @@
     "babel-preset-es2016": "^6.11.0",
     "babel-register": "^6.9.0",
     "dotenv": "^2.0.0",
+    "jsonfile": "^2.3.1",
     "tumblr.js": "^1.1.0"
   },
   "devDependencies": {},
