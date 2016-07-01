@@ -1,0 +1,26 @@
+{
+  "name": "tumblr-batch-photo-upload",
+  "version": "1.0.0",
+  "description": "tool to batch upload photos in separate tumblr posts",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2016": "^6.11.0",
+    "babel-register": "^6.9.0",
+    "dotenv": "^2.0.0",
+    "tumblr.js": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecalvinchan/tumblr-batch-photo-upload.git"
+  },
+  "author": "Calvin Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecalvinchan/tumblr-batch-photo-upload/issues"
+  },
+  "homepage": "https://github.com/thecalvinchan/tumblr-batch-photo-upload#readme"
+}
